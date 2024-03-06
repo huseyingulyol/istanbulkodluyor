@@ -1,5 +1,5 @@
 ﻿/*
-    6) Bir sayının mükemmel sayı olup olmadığı kontrol eden algoritma yazınız.
+    6) String metotlarını araştırınız. Her bir metot için örnek yapınız.
 */
 
 //Replace

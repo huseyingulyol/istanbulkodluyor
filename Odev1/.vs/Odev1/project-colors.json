@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b717922-53b7-4a76-b0eb-14dcc9bc2e78": {
+      "ProjectGuid": "9b717922-53b7-4a76-b0eb-14dcc9bc2e78",
+      "DisplayName": "5_MukemmelSayi",
+      "ColorIndex": 0
+    },
+    "bdaa8b52-d2ff-460a-9c25-b9271df341ad": {
+      "ProjectGuid": "bdaa8b52-d2ff-460a-9c25-b9271df341ad",
+      "DisplayName": "4_RastgeleTahminEt",
+      "ColorIndex": 1
+    },
+    "d3182e23-17c6-466b-826d-00d8aede5d2d": {
+      "ProjectGuid": "d3182e23-17c6-466b-826d-00d8aede5d2d",
+      "DisplayName": "3_While_DoWhile",
+      "ColorIndex": 2
+    },
+    "e027e7ff-483e-4d36-b3b8-7b45beb77c5a": {
+      "ProjectGuid": "e027e7ff-483e-4d36-b3b8-7b45beb77c5a",
+      "DisplayName": "6_StringMetot",
+      "ColorIndex": 3
+    },
+    "1380e1cb-3ee6-4bbb-a400-3697284ed388": {
+      "ProjectGuid": "1380e1cb-3ee6-4bbb-a400-3697284ed388",
+      "DisplayName": "7_NotHesapla",
+      "ColorIndex": 4
+    },
+    "79d4f97d-c784-40b1-a3e7-67ddec687f16": {
+      "ProjectGuid": "79d4f97d-c784-40b1-a3e7-67ddec687f16",
+      "DisplayName": "2_TutarHesapla",
+      "ColorIndex": 5
+    },
+    "18966e39-7617-4010-887d-10b53c583fac": {
+      "ProjectGuid": "18966e39-7617-4010-887d-10b53c583fac",
+      "DisplayName": "1_SiparisBilgisi",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
