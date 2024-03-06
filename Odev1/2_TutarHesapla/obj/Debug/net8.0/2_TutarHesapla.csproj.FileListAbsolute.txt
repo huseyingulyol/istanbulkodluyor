@@ -1,0 +1,14 @@
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\bin\Debug\net8.0\2_TutarHesapla.exe
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\bin\Debug\net8.0\2_TutarHesapla.deps.json
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\bin\Debug\net8.0\2_TutarHesapla.runtimeconfig.json
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\bin\Debug\net8.0\2_TutarHesapla.dll
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\bin\Debug\net8.0\2_TutarHesapla.pdb
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\obj\Debug\net8.0\2_TutarHesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\obj\Debug\net8.0\2_TutarHesapla.AssemblyInfoInputs.cache
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\obj\Debug\net8.0\2_TutarHesapla.AssemblyInfo.cs
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\obj\Debug\net8.0\2_TutarHesapla.csproj.CoreCompileInputs.cache
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\obj\Debug\net8.0\2_TutarHesapla.dll
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\obj\Debug\net8.0\refint\2_TutarHesapla.dll
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\obj\Debug\net8.0\2_TutarHesapla.pdb
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\obj\Debug\net8.0\2_TutarHesapla.genruntimeconfig.cache
+C:\Users\strea\source\repos\Odev1\2_TutarHesapla\obj\Debug\net8.0\ref\2_TutarHesapla.dll

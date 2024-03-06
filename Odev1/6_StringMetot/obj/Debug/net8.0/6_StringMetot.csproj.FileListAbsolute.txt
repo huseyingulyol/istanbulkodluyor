@@ -1,0 +1,14 @@
+C:\Users\strea\source\repos\Odev1\6_StringMetot\bin\Debug\net8.0\6_StringMetot.exe
+C:\Users\strea\source\repos\Odev1\6_StringMetot\bin\Debug\net8.0\6_StringMetot.deps.json
+C:\Users\strea\source\repos\Odev1\6_StringMetot\bin\Debug\net8.0\6_StringMetot.runtimeconfig.json
+C:\Users\strea\source\repos\Odev1\6_StringMetot\bin\Debug\net8.0\6_StringMetot.dll
+C:\Users\strea\source\repos\Odev1\6_StringMetot\bin\Debug\net8.0\6_StringMetot.pdb
+C:\Users\strea\source\repos\Odev1\6_StringMetot\obj\Debug\net8.0\6_StringMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strea\source\repos\Odev1\6_StringMetot\obj\Debug\net8.0\6_StringMetot.AssemblyInfoInputs.cache
+C:\Users\strea\source\repos\Odev1\6_StringMetot\obj\Debug\net8.0\6_StringMetot.AssemblyInfo.cs
+C:\Users\strea\source\repos\Odev1\6_StringMetot\obj\Debug\net8.0\6_StringMetot.csproj.CoreCompileInputs.cache
+C:\Users\strea\source\repos\Odev1\6_StringMetot\obj\Debug\net8.0\6_StringMetot.dll
+C:\Users\strea\source\repos\Odev1\6_StringMetot\obj\Debug\net8.0\refint\6_StringMetot.dll
+C:\Users\strea\source\repos\Odev1\6_StringMetot\obj\Debug\net8.0\6_StringMetot.pdb
+C:\Users\strea\source\repos\Odev1\6_StringMetot\obj\Debug\net8.0\6_StringMetot.genruntimeconfig.cache
+C:\Users\strea\source\repos\Odev1\6_StringMetot\obj\Debug\net8.0\ref\6_StringMetot.dll

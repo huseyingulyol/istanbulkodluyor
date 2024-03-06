@@ -1,0 +1,14 @@
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\bin\Debug\net8.0\1_SiparisBilgisi.exe
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\bin\Debug\net8.0\1_SiparisBilgisi.deps.json
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\bin\Debug\net8.0\1_SiparisBilgisi.runtimeconfig.json
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\bin\Debug\net8.0\1_SiparisBilgisi.dll
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\bin\Debug\net8.0\1_SiparisBilgisi.pdb
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\obj\Debug\net8.0\1_SiparisBilgisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\obj\Debug\net8.0\1_SiparisBilgisi.AssemblyInfoInputs.cache
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\obj\Debug\net8.0\1_SiparisBilgisi.AssemblyInfo.cs
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\obj\Debug\net8.0\1_SiparisBilgisi.csproj.CoreCompileInputs.cache
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\obj\Debug\net8.0\1_SiparisBilgisi.dll
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\obj\Debug\net8.0\refint\1_SiparisBilgisi.dll
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\obj\Debug\net8.0\1_SiparisBilgisi.pdb
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\obj\Debug\net8.0\1_SiparisBilgisi.genruntimeconfig.cache
+C:\Users\strea\source\repos\Odev1\1_SiparisBilgisi\obj\Debug\net8.0\ref\1_SiparisBilgisi.dll

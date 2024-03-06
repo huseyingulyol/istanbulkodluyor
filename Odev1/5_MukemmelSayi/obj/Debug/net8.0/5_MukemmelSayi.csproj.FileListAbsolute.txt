@@ -1,0 +1,14 @@
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\bin\Debug\net8.0\5_MukemmelSayi.exe
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\bin\Debug\net8.0\5_MukemmelSayi.deps.json
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\bin\Debug\net8.0\5_MukemmelSayi.runtimeconfig.json
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\bin\Debug\net8.0\5_MukemmelSayi.dll
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\bin\Debug\net8.0\5_MukemmelSayi.pdb
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\obj\Debug\net8.0\5_MukemmelSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\obj\Debug\net8.0\5_MukemmelSayi.AssemblyInfoInputs.cache
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\obj\Debug\net8.0\5_MukemmelSayi.AssemblyInfo.cs
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\obj\Debug\net8.0\5_MukemmelSayi.csproj.CoreCompileInputs.cache
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\obj\Debug\net8.0\5_MukemmelSayi.dll
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\obj\Debug\net8.0\refint\5_MukemmelSayi.dll
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\obj\Debug\net8.0\5_MukemmelSayi.pdb
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\obj\Debug\net8.0\5_MukemmelSayi.genruntimeconfig.cache
+C:\Users\strea\source\repos\Odev1\5_MukemmelSayi\obj\Debug\net8.0\ref\5_MukemmelSayi.dll

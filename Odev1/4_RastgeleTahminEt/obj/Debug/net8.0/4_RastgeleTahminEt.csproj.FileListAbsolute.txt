@@ -1,0 +1,14 @@
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\bin\Debug\net8.0\4_RastgeleTahminEt.exe
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\bin\Debug\net8.0\4_RastgeleTahminEt.deps.json
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\bin\Debug\net8.0\4_RastgeleTahminEt.runtimeconfig.json
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\bin\Debug\net8.0\4_RastgeleTahminEt.dll
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\bin\Debug\net8.0\4_RastgeleTahminEt.pdb
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\obj\Debug\net8.0\4_RastgeleTahminEt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\obj\Debug\net8.0\4_RastgeleTahminEt.AssemblyInfoInputs.cache
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\obj\Debug\net8.0\4_RastgeleTahminEt.AssemblyInfo.cs
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\obj\Debug\net8.0\4_RastgeleTahminEt.csproj.CoreCompileInputs.cache
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\obj\Debug\net8.0\4_RastgeleTahminEt.dll
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\obj\Debug\net8.0\refint\4_RastgeleTahminEt.dll
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\obj\Debug\net8.0\4_RastgeleTahminEt.pdb
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\obj\Debug\net8.0\4_RastgeleTahminEt.genruntimeconfig.cache
+C:\Users\strea\source\repos\Odev1\4_RastgeleTahminEt\obj\Debug\net8.0\ref\4_RastgeleTahminEt.dll
