@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders5_Main/1.0.0": {
+        "dependencies": {
+          "Ders5_OOP": "1.0.0"
+        },
+        "runtime": {
+          "Ders5_Main.dll": {}
+        }
+      },
+      "Ders5_OOP/1.0.0": {
+        "runtime": {
+          "Ders5_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders5_Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ders5_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

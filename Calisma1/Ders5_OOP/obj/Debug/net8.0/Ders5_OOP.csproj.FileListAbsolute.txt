@@ -1,0 +1,12 @@
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\obj\Debug\net8.0\Ders5_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\obj\Debug\net8.0\Ders5_OOP.AssemblyInfoInputs.cache
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\obj\Debug\net8.0\Ders5_OOP.AssemblyInfo.cs
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\obj\Debug\net8.0\Ders5_OOP.csproj.CoreCompileInputs.cache
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\obj\Debug\net8.0\Ders5_OOP.sourcelink.json
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\bin\Debug\net8.0\Ders5_OOP.deps.json
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\bin\Debug\net8.0\Ders5_OOP.dll
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\bin\Debug\net8.0\Ders5_OOP.pdb
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\obj\Debug\net8.0\Ders5_OOP.dll
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\obj\Debug\net8.0\refint\Ders5_OOP.dll
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\obj\Debug\net8.0\Ders5_OOP.pdb
+C:\Users\strea\source\repos\IstanbulKodluyor\Ders5_OOP\obj\Debug\net8.0\ref\Ders5_OOP.dll

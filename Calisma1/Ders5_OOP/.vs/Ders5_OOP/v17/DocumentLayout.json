@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4A9253-3E2F-42A8-ADD1-C980B7504AA8}|..\\Ders5_Main\\Ders5_Main.csproj|c:\\users\\strea\\source\\repos\\istanbulkodluyor\\ders5_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A13CBEA-62B9-4056-89AC-2B589FF16875}|Ders5_OOP.csproj|c:\\users\\strea\\source\\repos\\istanbulkodluyor\\ders5_oop\\inmemorybrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A13CBEA-62B9-4056-89AC-2B589FF16875}|Ders5_OOP.csproj|solutionrelative:inmemorybrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A13CBEA-62B9-4056-89AC-2B589FF16875}|Ders5_OOP.csproj|c:\\users\\strea\\source\\repos\\istanbulkodluyor\\ders5_oop\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A13CBEA-62B9-4056-89AC-2B589FF16875}|Ders5_OOP.csproj|solutionrelative:brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A13CBEA-62B9-4056-89AC-2B589FF16875}|Ders5_OOP.csproj|c:\\users\\strea\\source\\repos\\istanbulkodluyor\\ders5_oop\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A13CBEA-62B9-4056-89AC-2B589FF16875}|Ders5_OOP.csproj|solutionrelative:brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_OOP\\Brand.cs",
+              "RelativeDocumentMoniker": "Brand.cs",
+              "ToolTip": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_OOP\\Brand.cs",
+              "RelativeToolTip": "Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:49:53.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandManager.cs",
+              "DocumentMoniker": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_OOP\\BrandManager.cs",
+              "RelativeDocumentMoniker": "BrandManager.cs",
+              "ToolTip": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_OOP\\BrandManager.cs",
+              "RelativeToolTip": "BrandManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:45:19.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_OOP\\InMemoryBrandRepository.cs",
+              "RelativeDocumentMoniker": "InMemoryBrandRepository.cs",
+              "ToolTip": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_OOP\\InMemoryBrandRepository.cs",
+              "RelativeToolTip": "InMemoryBrandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:44:51.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_Main\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ders5_Main\\Program.cs",
+              "ToolTip": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_Main\\Program.cs",
+              "RelativeToolTip": "..\\Ders5_Main\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:20:36.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
