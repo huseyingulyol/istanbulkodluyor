@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_Main\\Ders5_Main.csproj",
+      "projectUniqueName": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Calisma1\\Ders5_Main\\Ders5_Main.csproj",
       "projectName": "Ders5_Main",
-      "projectPath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_Main\\Ders5_Main.csproj",
+      "projectPath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Calisma1\\Ders5_Main\\Ders5_Main.csproj",
       "packagesPath": "C:\\Users\\strea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_Main\\obj\\",
+      "outputPath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Calisma1\\Ders5_Main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_OOP\\Ders5_OOP.csproj": {
-              "projectPath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Ders5_OOP\\Ders5_OOP.csproj"
+            "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Calisma1\\Ders5_OOP\\Ders5_OOP.csproj": {
+              "projectPath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Calisma1\\Ders5_OOP\\Ders5_OOP.csproj"
             }
           }
         }
