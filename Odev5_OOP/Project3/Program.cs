@@ -74,17 +74,17 @@ abstract class BaseCreditManager : ICreditManager
     }
 }
 
-class TeacherCreditManager : BaseCreditManager, ICreditManager
+class TeacherCreditManager : BaseCreditManager
 {
     public override void Calculate()
     {
         //hesaplamalar
         Console.WriteLine("Öğretmen kredisi hesaplandı");
     }
-
     public override void Save()
     {
         //
+
         base.Save();
         //
     }

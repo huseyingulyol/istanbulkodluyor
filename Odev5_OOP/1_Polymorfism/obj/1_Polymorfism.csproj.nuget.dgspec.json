@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Odev6_OOP2\\2_Inheritance\\2_Inheritance.csproj": {}
+    "C:\\Users\\strea\\source\\repos\\Odev5_OOP\\1_Polymorfism\\1_Polymorfism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Odev6_OOP2\\2_Inheritance\\2_Inheritance.csproj": {
+    "C:\\Users\\strea\\source\\repos\\Odev5_OOP\\1_Polymorfism\\1_Polymorfism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Odev6_OOP2\\2_Inheritance\\2_Inheritance.csproj",
-        "projectName": "2_Inheritance",
-        "projectPath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Odev6_OOP2\\2_Inheritance\\2_Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\strea\\source\\repos\\Odev5_OOP\\1_Polymorfism\\1_Polymorfism.csproj",
+        "projectName": "1_Polymorfism",
+        "projectPath": "C:\\Users\\strea\\source\\repos\\Odev5_OOP\\1_Polymorfism\\1_Polymorfism.csproj",
         "packagesPath": "C:\\Users\\strea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\Odev6_OOP2\\2_Inheritance\\obj\\",
+        "outputPath": "C:\\Users\\strea\\source\\repos\\Odev5_OOP\\1_Polymorfism\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
