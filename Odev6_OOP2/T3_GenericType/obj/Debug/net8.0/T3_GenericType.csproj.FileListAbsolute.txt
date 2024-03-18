@@ -1,0 +1,15 @@
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\bin\Debug\net8.0\T3_GenericType.exe
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\bin\Debug\net8.0\T3_GenericType.deps.json
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\bin\Debug\net8.0\T3_GenericType.runtimeconfig.json
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\bin\Debug\net8.0\T3_GenericType.dll
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\bin\Debug\net8.0\T3_GenericType.pdb
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\T3_GenericType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\T3_GenericType.AssemblyInfoInputs.cache
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\T3_GenericType.AssemblyInfo.cs
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\T3_GenericType.csproj.CoreCompileInputs.cache
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\T3_GenericType.sourcelink.json
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\T3_GenericType.dll
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\refint\T3_GenericType.dll
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\T3_GenericType.pdb
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\T3_GenericType.genruntimeconfig.cache
+C:\Users\strea\source\repos\IstanbulKodluyor\Odev6_OOP2\T3_GenericType\obj\Debug\net8.0\ref\T3_GenericType.dll

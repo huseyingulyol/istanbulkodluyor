@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "T5_Encapsulation/1.0.0": {
+        "runtime": {
+          "T5_Encapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T5_Encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
