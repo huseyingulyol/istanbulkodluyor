@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Entities
 {
-    public class Category
+    public class Brand
     {
-        public Category()
+        public Brand()
         {
-
+            
         }
 
-        public Category(int id, string name, string description)
+        public Brand(int id, string name, string description)
         {
             Id = id;
             Name = name;
@@ -24,6 +24,5 @@ namespace Entities
         public string Name { get; set; }
         public string Description { get; set; }
         public virtual ICollection<BrandCategory>? BrandCategories { get; set; }
-
     }
 }

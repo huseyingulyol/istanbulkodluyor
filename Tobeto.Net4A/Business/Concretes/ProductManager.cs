@@ -1,4 +1,8 @@
 ﻿using Business.Abstracts;
+using Core.CrossCuttingConcerns.Exceptions.Types;
+using DataAccess.Abstracts;
+using DataAccess.Concretes;
+using DataAccess.Concretes.EntityFramework;
 using Entities;
 using System;
 using System.Collections.Generic;
@@ -10,38 +14,56 @@ namespace Business.Concretes
 {
     public class ProductManager : IProductService
     {
-        List<Product> products;
+        private readonly IProductRepository _productRepository;
 
-        public ProductManager()
+        public ProductManager(IProductRepository productRepository)
         {
-            this.products = new List<Product>();
+            this._productRepository = productRepository;
+            
         }
 
         public void Add(Product product)
         {
-            products.Add(product);
+            if (product.Price == 0)
+                throw new NotFoundException("Para yok.");
+            else if (product.Price < 0)
+            {
+                throw new ValidationException(new List<ValidationExceptionModel>() { new ValidationExceptionModel() { Errors = new List<string> { "Price negatif değer alamaz!", "Price eksili olamaz!" }, Property = "Price" } });
+                //throw new BusinessException("iş kazası");
+
+            }
+
+            else
+            {
+                _productRepository.Add(product);
+
+            }
         }
 
-        public void Delete(int id)
+        public async Task AddAsync(Product product)
         {
-            products.Remove(products.Find(x=> x.Id == id));
+           await _productRepository.AddAsync(product);
+        }
+
+
+        public void Delete(Product product)
+        {
+            _productRepository.Delete(product);
         }
 
         public List<Product> GetAll()
         {
-            return this.products;
+            return _productRepository.GetList(p => p.Quantity > 0).ToList();
         }
 
-        public Product GetById(int id)
+        public Product? GetById(int id)
         {
-            return products.Find(x => x.Id == id);
+            return _productRepository.Get(p => p.Quantity > 0);
         }
 
         public void Update(Product product)
         {
-            Product foundProduct = products.Find(x => x.Id == product.Id);
-            foundProduct.Name = product.Name;
-            foundProduct.UnitPrice = product.UnitPrice;
+            _productRepository.Update(product);
         }
     }
 }

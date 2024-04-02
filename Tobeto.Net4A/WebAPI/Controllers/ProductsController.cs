@@ -10,7 +10,8 @@ namespace WebAPI.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        IProductService productService; 
+        IProductService productService;
+
 
         public ProductsController(IProductService productService)
         {
@@ -36,9 +37,9 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost("delete")]
-        public void Delete([FromBody] int id)
+        public void Delete([FromBody] Product product)
         {
-            productService.Delete(id);
+            productService.Delete(product);
         }
 
         [HttpPost("update")]
@@ -46,6 +47,10 @@ namespace WebAPI.Controllers
         {
             productService.Update(product);
         }
-
+        [HttpPost("addasync")]
+        public async void AddAsync([FromBody] Product product)
+        {
+            await productService.AddAsync(product);
+        }
     }
 }
