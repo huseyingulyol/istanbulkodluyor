@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dO2WYJ+YifIoaF4l0ElWefCc5xKYQQfnpThbVN7SnuwLNRV/i7h6US5oAlBrckKXABKorM4bsBsDlLSU+Ox+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strea\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\strea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\strea\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\strea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

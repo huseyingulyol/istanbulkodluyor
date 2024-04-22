@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5vzDT70C53fu794UUMW7mVm10WtVUeEubS5bizLSJkrAuZtDsww4xwwFWfidIwIdk675eKAEePtbfumC5lTPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\strea\\source\\repos\\IstanbulKodluyor\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\strea\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\strea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
